@@ -1,12 +1,10 @@
 ### README File for File Sharing System Project
 
----
-
 # File Sharing System
 
 A secure and efficient file-sharing application built with **Node.js**, **Express**, and **SQLite**. This project provides user authentication, file upload/download functionalities, and ensures secure storage and access control for files.
 
----
+
 
 ## Table of Contents
 1. [Features](#features)
@@ -50,7 +48,7 @@ A secure and efficient file-sharing application built with **Node.js**, **Expres
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/file-sharing-system.git
+   git clone https://github.com/KonduruManikanta/EZ-Assignment/tree/main
    cd file-sharing-system
    ```
 
@@ -161,7 +159,7 @@ Detailed test cases are documented in the `TEST_CASES.md` file.
    ```
 3. Deploy the codebase:
    ```bash
-   git clone https://github.com/your-repo/file-sharing-system.git
+   git clone https://github.com/KonduruManikanta/EZ-Assignment/tree/main
    cd file-sharing-system
    npm install
    ```
